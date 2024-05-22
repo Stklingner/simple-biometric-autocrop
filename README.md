@@ -1,4 +1,3 @@
-```markdown
 # Biometric Passport Photo Processor
 
 This Python CLI program processes an image file to detect a face, crops it to conform to biometric passport photo standards, and reports the DPI and dimensions of the cropped image.
@@ -94,4 +93,3 @@ This project is licensed under the MIT License.
 ## Contributing
 
 Feel free to submit issues, fork the repository, and make pull requests. Contributions are welcome!
-```
